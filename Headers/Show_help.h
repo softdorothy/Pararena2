@@ -1,0 +1,1 @@
+pascal void Show_help( short help_dlog_id, StringPtr help_text_name,	short base_pict_id, StringPtr default_filename,	StringPtr default_menuname );pascal void Flash_button( DialogPtr the_dialog, short item_number );
